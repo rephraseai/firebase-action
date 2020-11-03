@@ -6,4 +6,4 @@ branding:
   color: 'gray-dark'
 runs:
   using: 'docker'
-  image: 'Dockerfile'
+  image: 'docker://rephraseai/firebase-action:1.5.0'
